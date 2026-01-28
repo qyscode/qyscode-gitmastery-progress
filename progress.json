@@ -34,5 +34,14 @@
       "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1769606364.231754,
+    "completed_at": 1769606367.94614,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
   }
 ]
